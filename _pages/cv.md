@@ -9,29 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my CV <a href="{{ base_path }}/files/Resume_JikunCai.pdf" target="_blank">here</a>.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+* B.S. in Fudan University, 2024-2028
+
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025.9-2026.6: Research Intern
+  * OpenMoss Lab, Fudan University
+  * Supervisor: Xi-peng Qiu
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+<!--  
 Skills
 ======
 * Skill 1
@@ -62,3 +53,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
