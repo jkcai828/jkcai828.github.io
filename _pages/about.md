@@ -1,3 +1,4 @@
+<!--
 ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
@@ -54,3 +55,33 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+Hi, I'm Jikun Cai, currently an undergraduate student at Fudan University. I'm fortunate to be a research intern at [NTU-MMLab](https://www.mmlab-ntu.com/index.html) from 2026.6, advised by Professor [Ziwei Liu](https://liuziwei7.github.io/index.html). I was a research intern at OpenMOSS Lab from 2025.9 to 2026.6, advised by Professor [Xi-peng Qiu](https://xpqiu.github.io/).
+
+# Research Interests
+
+My research interests spans topics about Embodied-AI, particularly world action models, VLAs and world models. A list of topics:
+- VLAs and WAMs
+- Robot learning
+- Robot control
+
+# Selected Publications
+- **LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models** [arXiv](https://arxiv.org/abs/2510.13626) [Project page](https://sylvestf.github.io/LIBERO-plus/)
+
+Senyu Fei*, Siyin Wang*, Junhao Shi*, Zihao Dai, Jikun Cai, Pengfang Qian, Li Ji, Xinzhe He, Shiduo Zhang, Zhaoye Fei, Jinlan Fu, Jingjing Gong, Xipeng Qiu
+
+CVPR 2026
+
+# Contact
+
+Feel free to contact me via email or just have a talk. I'd love to that.
+
