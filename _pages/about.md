@@ -1,13 +1,12 @@
-<!--
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+<!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
@@ -56,14 +55,6 @@ For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 -->
----
-permalink: /
-title: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 Hi, I'm Jikun Cai, currently an undergraduate student at Fudan University. I'm fortunate to be a research intern at [NTU-MMLab](https://www.mmlab-ntu.com/index.html) from 2026.6, advised by Professor [Ziwei Liu](https://liuziwei7.github.io/index.html). I was a research intern at OpenMOSS Lab from 2025.9 to 2026.6, advised by Professor [Xi-peng Qiu](https://xpqiu.github.io/).
 
@@ -77,9 +68,9 @@ My research interests spans topics about Embodied-AI, particularly world action 
 # Selected Publications
 - **LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models** [arXiv](https://arxiv.org/abs/2510.13626) [Project page](https://sylvestf.github.io/LIBERO-plus/)
 
-Senyu Fei*, Siyin Wang*, Junhao Shi*, Zihao Dai, Jikun Cai, Pengfang Qian, Li Ji, Xinzhe He, Shiduo Zhang, Zhaoye Fei, Jinlan Fu, Jingjing Gong, Xipeng Qiu
+  Senyu Fei*, Siyin Wang*, Junhao Shi*, Zihao Dai, Jikun Cai, Pengfang Qian, Li Ji, Xinzhe He, Shiduo Zhang, Zhaoye Fei, Jinlan Fu, Jingjing Gong,      Xipeng Qiu
 
-CVPR 2026
+  CVPR 2026
 
 # Contact
 
