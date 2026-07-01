@@ -66,7 +66,7 @@ My research interests spans topics about Embodied-AI, particularly world action 
 - Robot control
 
 # Selected Publications
-- **LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models** [arXiv](https://arxiv.org/abs/2510.13626) [Project page](https://sylvestf.github.io/LIBERO-plus/)
+- **LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models** [[arXiv]](https://arxiv.org/abs/2510.13626) [[Project page]](https://sylvestf.github.io/LIBERO-plus/)
 
   Senyu Fei*, Siyin Wang*, Junhao Shi*, Zihao Dai, Jikun Cai, Pengfang Qian, Li Ji, Xinzhe He, Shiduo Zhang, Zhaoye Fei, Jinlan Fu, Jingjing Gong,      Xipeng Qiu
 
