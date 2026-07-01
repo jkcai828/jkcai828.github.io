@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV <a href="{{ base_path }}/files/Resume_JikunCai.pdf" target="_blank">here</a>.
+You can download my full CV <a href="{{ base_path }}/files/Resume_JikunCai.pdf" target="_blank">here</a>.
 
 Education
 ======
