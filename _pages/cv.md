@@ -18,9 +18,12 @@ Education
 
 Experience
 ======
+* 2026.6-Present
+  * MMLab@NTU(S-Lab), NTU
+  * Advisor: Ziwei Liu
 * 2025.9-2026.6: Research Intern
   * OpenMoss Lab, Fudan University
-  * Supervisor: Xi-peng Qiu
+  * Advisor: Xi-peng Qiu
 
 <!--  
 Skills
