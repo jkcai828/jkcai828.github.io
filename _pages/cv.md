@@ -14,7 +14,7 @@ You can download my full CV <a href="{{ base_path }}/files/Resume_JikunCai.pdf" 
 Education
 ======
 
-* B.S. in Fudan University, 2024-2028
+* B.S. in Fudan University, 2024-2028(Expected)
 
 Experience
 ======
