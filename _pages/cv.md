@@ -18,7 +18,7 @@ Education
 
 Experience
 ======
-* 2026.6-Present
+* 2026.6-Present: Research Intern
   * MMLab@NTU(S-Lab), NTU
   * Advisor: Ziwei Liu
 * 2025.9-2026.6: Research Intern
