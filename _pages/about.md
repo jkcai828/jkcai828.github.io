@@ -56,7 +56,7 @@ For more info
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 -->
 
-Hi, I'm Jikun Cai, currently an undergraduate student at Fudan University. I'm fortunate to be a research intern at [NTU-MMLab](https://www.mmlab-ntu.com/index.html) from 2026.6, advised by Professor [Ziwei Liu](https://liuziwei7.github.io/index.html). I was a research intern at OpenMOSS Lab from 2025.9 to 2026.6, advised by Professor [Xi-peng Qiu](https://xpqiu.github.io/).
+Hi, I'm Jikun Cai, currently an undergraduate student at Fudan University. I'm fortunate to be a research intern at [MMLab@NTU](https://www.mmlab-ntu.com/index.html) from 2026.6, advised by Professor [Ziwei Liu](https://liuziwei7.github.io/index.html). I was a research intern at OpenMOSS Lab from 2025.9 to 2026.6, advised by Professor [Xi-peng Qiu](https://xpqiu.github.io/).
 
 # Research Interests
 
