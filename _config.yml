@@ -23,7 +23,7 @@ repository               : "jkcai828/jkcai828.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "show.jpg"
+  avatar           : "Avatar.png"
   name             : "Jikun Cai"
   pronouns         : # example: "she/her"  
   bio              : "Hi, this is Jikun Cai from China"
